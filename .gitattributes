@@ -1,0 +1,12 @@
+*.prefab diff=tex
+*.asset diff=tex
+
+*.pbxproj binary
+*.png binary
+*.tga binary
+*.ogg binary
+*.mp3 binary
+*.jpg binary
+*.fbx binary
+*.obj binary
+*.exr binary
